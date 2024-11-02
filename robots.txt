@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://icijuaqa.github.io/Htu/sitemap_index.txt
+Sitemap: https://icijuaqa.github.io/RKE/sitemap_index.txt
+Sitemap: https://icijuaqa.github.io/XID/sitemap_index.txt
+Sitemap: https://icijuaqa.github.io/kpw/sitemap_index.txt
